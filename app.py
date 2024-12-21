@@ -166,7 +166,7 @@ st.markdown("""
   
  <!-- Certification -->
 <h3 style="color:#5F9EA0;font-size:25px">Certification</h3> 
- <h4 > Google Data Analytics</h3>
+ <h4 > Google Data Analytics &nbsp;&nbsp<a href="https://www.coursera.org/account/accomplishments/professional-cert/Q8DHDS66X759" style="font-size:15px"> Show Certificate</a></h3>
  
   <p> <b>** </b>  Comprehensive Data Analysis Skills: Gained proficiency in data cleaning, visualization, and
 analysis using tools like Excel, SQL, R, and Tableau</p>
@@ -179,7 +179,7 @@ solve real-world business problems.
 analysis and reporting.
 </p>
 
- <h4 > LinkedIn Data Analytics</h3>
+ <h4 > LinkedIn Data Analytics &nbsp;&nbsp<a href="https://www.linkedin.com/learning/certificates/831e6c9ca4c7b0aa5019a552524b85f9324bdd9b9eda2786fbd4b54d5fbf7f1e?u=92695330" style="font-size:15px"> Show Certificate</a></h3>
   <p> <b>** </b>  Created interactive dashboards using tools like Tableau or Power BI to present LinkedIn analytics insights to stakeholders</p>
   <p> <b>** </b> Used LinkedIn analytics to measure ROI and recommend data-driven strategies for improved marketing effectiveness.
 </p> 
